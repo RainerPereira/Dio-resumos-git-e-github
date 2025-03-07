@@ -19,4 +19,6 @@ Repositório para armazenar reumos sobre Git e Github da [DigitalInnovation One]
 git init
 ...
 
-## 🔍 Referências# Dio-resumos-git-e-github
+## 🔍 Referências
+
+# Dio-resumos-git-e-github
