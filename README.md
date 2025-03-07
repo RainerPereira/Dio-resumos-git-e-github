@@ -12,7 +12,7 @@ Repositório para armazenar reumos sobre Git e Github da [DigitalInnovation One]
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no Repositório local | [Resumos ()] |
+|Gravando alterações no Repositório local | [Resumos]() |
 
 ...
 git init
