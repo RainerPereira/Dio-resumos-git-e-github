@@ -6,7 +6,7 @@ Repositório para armazenar reumos sobre Git e Github da [DigitalInnovation One]
 ## 📘 Documentação
 
 - [Documentação Git](https://git-scm.com/doc)
--[Documentação GitHub](https://docs.github.com/)
+- [Documentação GitHub](https://docs.github.com/)
 
 ## 📖 Resumos das Aulas
 
