@@ -11,7 +11,7 @@ Repositório para armazenar reumos sobre Git e Github da [DigitalInnovation One]
 ## 📖 Resumos das Aulas
 
 | Aulas  |   Resumos   |
-|--------|====---------|
+|--------|-------------|
 |Aula 01 | [Resumos]() |
 |Aula 02 | [Resumos]() |
 
